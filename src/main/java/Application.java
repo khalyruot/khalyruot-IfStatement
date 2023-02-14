@@ -5,6 +5,7 @@ public class Application {
      * All implementation code should be written in the Lab class.
      */
     public static void main(String[] args) {
+        
         System.out.println("The Lab.ifExample method should return value a if bool is true, and value b if bool is false.");
         Lab ifLab = new Lab();
 
